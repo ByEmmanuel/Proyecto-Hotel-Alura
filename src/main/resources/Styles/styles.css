@@ -1,0 +1,143 @@
+#Boton-Login-main{
+    -fx-background-color: transparent;
+    -fx-border-width: 0;
+    -fx-text-fill: #ff13eb;
+
+    -fx-border-color: white;
+    -fx-border-width: 1px;
+
+
+    -fx-border: 50%;
+    -fx-border-radius: 25px;
+
+    -fx-display: flex;
+    -fx-font-size: 18px;
+
+    -fx-cursor: pointer;
+
+}
+
+#Boton-Registrar{
+    -fx-background-color: transparent;
+    -fx-border-width: 0;
+    -fx-text-fill: #ff13eb;
+
+    -fx-border-color: white;
+    -fx-border-width: 1px;
+
+
+    -fx-border: 50%;
+    -fx-border-radius: 25px;
+
+    -fx-display: flex;
+    -fx-font-size: 18px;
+
+    -fx-cursor: pointer;
+}
+
+#Label-Password{
+
+
+}
+
+#Label-Email{
+
+}
+
+#Boton-Login{
+    -fx-background-color: transparent;
+    -fx-border-width: 0;
+    -fx-text-fill: #ff13eb;
+    -fx-padding: 10 100 10 100;
+
+    -fx-border-color: #000000;
+    -fx-border-width: 1px;
+
+
+    -fx-border: 9%;
+    -fx-border-radius: 8px;
+
+    -fx-display: flex;
+    -fx-font-size: 18px;
+}
+#Boton-Registro,#Boton-Enviar{
+    -fx-background-color: transparent;
+    -fx-border-width: 0;
+    -fx-text-fill: #ff13eb;
+    -fx-padding: 10 60 10 60;
+
+    -fx-border-color: #000000;
+    -fx-border-width: 1px;
+
+
+    -fx-border: 9%;
+    -fx-border-radius: 8px;
+
+    -fx-display: flex;
+    -fx-font-size: 18px;
+}
+
+#puto{
+    -fx-font-size: 20px;
+}
+
+#Boton-Exit{
+    -fx-background-color: transparent;
+    -fx-border-width: 100;
+}
+#MensajeErrorLogin{
+    font-style: normal;
+    font-family: 'Urbanist', sans-serif;
+    -fx-font-family: 'Lobster Two', cursive;
+    -fx-font-size: 22px;
+}
+#OK,#Cancelar{
+    -fx-background-color: transparent;
+    -fx-border-width: 10px;
+    -fx-text-fill: #ff13eb;
+    -fx-padding: 10 40 10 40;
+    -fx-font-family: 'Roboto Mono', monospace;
+
+    -fx-border-color: #000000;
+    -fx-border-width: 2px;
+
+
+    -fx-border: 9%;
+    -fx-border-radius: 8px;
+
+    -fx-display: flex;
+    -fx-font-size: 18px;
+}
+
+#Boton-Enviar{
+
+}
+
+.Escoger-Fecha{
+    -fx-background-color: transparent;
+}
+
+.Escoger-Fecha .text-field {
+    -fx-background-color: #f4f4f4; /* Color de fondo similar al de macOS */
+    -fx-border-color: #d8d8d8; /* Color del borde similar al de macOS */
+    -fx-font-size: 14px; /* Tamaño de fuente */
+    -fx-text-fill: #333333; /* Color del texto */
+}
+@font-face {
+    font-family: "PixelifySans";
+    src: url("/Fuentes/Pixelify_Sans/static/PixelifySans-Regular.ttf"); /* Ruta al archivo de fuente */
+}
+#h1{
+    -fx-text-fill: #f4f4f4;
+    /* Fuente de 45*/
+    -fx-font-size: 45px;
+    -fx-font-family: "PixelifySans";
+}
+#h2{
+    -fx-text-fill: #f4f4f4;
+    -fx-font-size: 15px;
+}
+#TextoFechas{
+    -fx-font-size: 15px;
+}
+
